@@ -1,9 +1,19 @@
 #Learn GIT
 
 ## 주요단어
-
+- 작업디렉토리(Working Directory)
+- 인덱스(Stage)
+- 로컬저장소(Local Repogitory)
+- 원격저장소(Remote Repogitory)
 
 ## 명령어
+- git init (폴더경로)
+- git add (파일명)
+- git --config 
+- git status
+- git commit 
+- git log / glog
+
 
 
 ## 시나리오
