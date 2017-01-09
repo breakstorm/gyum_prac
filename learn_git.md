@@ -25,3 +25,7 @@
 ### 최초 GIT프로젝트 생성
 - git init /temp
 - git status
+
+테스트 중 입니다.
+
+
