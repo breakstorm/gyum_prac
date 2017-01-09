@@ -18,8 +18,8 @@
 - git pull : fetech + merge
 - git push : 로컬저장소 -> 원격저장소
 - git fetech : 원격저장소 -> 로컬저장소
-- git merge : 로컬저장소 -> 워킹디렉토리
-- 
+- git merge : 로컬저장소 -> 워킹디렉토리 / 서로 다른 커밋을 합치는 과정
+- git branch
 
 
 ## 시나리오
@@ -40,3 +40,6 @@
 
 2번째 테스트. 한꺼번에 바꾸기
 git diff 명령어 확인을 위한 명령어
+
+
+## GIT Flow
