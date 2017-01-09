@@ -14,6 +14,12 @@
 - git commit : git 인덱스에 있는 파일 조작
 - git log / glog
 - git clone (URL) [저장하고 싶은 폴더명]
+- git remote origin (URL)
+- git pull : fetech + merge
+- git push : 로컬저장소 -> 원격저장소
+- git fetech : 원격저장소 -> 로컬저장소
+- git merge : 로컬저장소 -> 워킹디렉토리
+- 
 
 
 ## 시나리오
