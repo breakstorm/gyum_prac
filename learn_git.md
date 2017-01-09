@@ -9,7 +9,7 @@
 ## 명령어
 - git init (폴더경로)
 - git add (파일명)
-- git --config 
+- git config 
 - git status
 - git commit 
 - git log / glog
@@ -17,3 +17,11 @@
 
 
 ## 시나리오
+### GIT 설정
+- git config --global user.name "hwigyum"
+- git config --global user.email "breakstorm00@gmail.com"
+- git config --global --list //확인
+
+### 최초 GIT프로젝트 생성
+- git init /temp
+- git status
