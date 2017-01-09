@@ -13,7 +13,7 @@
 - git status : git 저장소 상태
 - git commit : git 인덱스에 있는 파일 조작
 - git log / glog
-
+- git clone (URL) [저장하고 싶은 폴더명]
 
 
 ## 시나리오
@@ -25,6 +25,9 @@
 ### 최초 GIT프로젝트 생성
 - git init /temp
 - git status
+
+## GIT commit 진행
+- 
 
 테스트 중 입니다.
 
