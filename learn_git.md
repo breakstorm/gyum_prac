@@ -8,10 +8,10 @@
 
 ## 명령어
 - git init (폴더경로)
-- git add (파일명)
-- git config 
-- git status
-- git commit 
+- git add (파일명) : git 작업디렉토리에 있는 파일 조작
+- git config : git 설정 
+- git status : git 저장소 상태
+- git commit : git 인덱스에 있는 파일 조작
 - git log / glog
 
 
